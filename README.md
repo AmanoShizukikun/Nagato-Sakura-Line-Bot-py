@@ -1,4 +1,4 @@
-# Line-Bot-Nagato-Sakura-py
+# Nagato-Sakura-Line-Bot-py
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/AmanoShizukikun/Line-Bot-Nagato-Sakura-py?style=social)](https://github.com/AmanoShizukikun/Line-Bot-Nagato-Sakura-py/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/AmanoShizukikun/Line-Bot-Nagato-Sakura-py)](https://github.com/AmanoShizukikun/Line-Bot-Nagato-Sakura-py/commits/main)
